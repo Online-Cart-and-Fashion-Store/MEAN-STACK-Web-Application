@@ -1,0 +1,25 @@
+.App {
+  min-height:100vh;
+  background: #000;
+}
+
+.card-body.item{
+  background:#dcdcdc;
+}
+
+.card.main{
+  box-shadow: 0 4px 7px rgba(255, 255, 255, 0.6);
+}
+
+.bg-light.top-navbar{
+  background:#dcdcdc !important;
+}
+
+.navbar-brand.text-success{
+  color: #000 !important;
+  font-weight: bold ;
+}
+
+.btn-outline-success{
+  background: #fff;
+}
